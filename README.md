@@ -74,7 +74,7 @@ Defeated enemies are removed from the fight. A wave ends when every enemy in it 
 | Wave I: Entrance | 5 | 100 | +100 |
 | Wave II: Main Corridor | 4 | 200 | +250 |
 | Wave III: Dining Hall | 3 | 500 | +500 |
-| Final Boss | Emperor Tchanka (2000 HP) and Zolomaan (900 HP, +500 on Hard) | n/a | n/a |
+| Final Boss | Unruly Emperor (2000 HP) and Conniving Schemer (900 HP, +500 on Hard) | n/a | n/a |
 
 After each of the first three waves you receive rewards, get a chance to make purchases, and your allies' health is upgraded.
 
