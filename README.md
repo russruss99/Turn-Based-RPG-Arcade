@@ -1,4 +1,4 @@
-# FinalProject: Text-Based Battle Game
+# FinalProject: Text-Based Battle Game Version 1.0
 
 A turn-based, console RPG written in C++. You lead a small party through three waves of enemies and a final boss fight, choosing your attacks each turn while your allies fight alongside you.
 
